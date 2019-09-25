@@ -14,6 +14,8 @@ section {
 .section1 {
     background: white;
     text-align: center;
+    padding-left: 15vw;
+    padding-right: 15vw;
 }
 
 .section2 {
@@ -33,6 +35,7 @@ h1 {
     margin-top: 1em;
     margin-bottom: 1em;
     font-size: 50px;
+    font-weight: 900;
 }
 
 .card {
